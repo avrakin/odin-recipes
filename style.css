@@ -1,0 +1,58 @@
+body {
+    background-color: darkslateblue;
+    color: goldenrod;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    line-height: 20px;
+
+}
+
+#banner {
+    border: 2px solid goldenrod;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.list-title {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.links {
+    text-align: center;
+}
+
+.recipes-list,
+.links {
+    margin: 30px auto 30px auto;
+}
+
+.links a {
+    border: 2px solid goldenrod;
+    padding: 5px;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.recipe h2 {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: goldenrod;
+    font-weight: 700;
+}
+
+li {
+    margin: 10px 0;
+}
